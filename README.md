@@ -10,7 +10,7 @@ O PetLife é um site informativo e interativo que visa promover o bem-estar dos 
 
 - HTML5 e CSS3 para a estrutura e estilo do site.
 - JavaScript para interatividade.
-- 
+  
 ## Instalação
 
 Se deseja executar este projeto localmente, siga as etapas abaixo:
